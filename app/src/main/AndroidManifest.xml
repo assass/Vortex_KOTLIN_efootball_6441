@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<manifest xmlns:android='http://schemas.android.com/apk/res/android'>
+    <application android:label='Vortex_KOTLIN_efootball_6441' android:extractNativeLibs='true' android:theme='@style/Theme.AppCompat.Light.NoActionBar'>
+        <meta-data android:name="app_keywords" android:value="football, soccer, efootball, sports, simulation, multiplayer, champions league, android-game, kotlin, mobile-soccer, stadium, match" />
+        <activity android:name='.MainActivity' android:exported='true'>
+            <intent-filter><action android:name='android.intent.action.MAIN'/><category android:name='android.intent.category.LAUNCHER'/></intent-filter>
+        </activity>
+    </application>
+</manifest>
